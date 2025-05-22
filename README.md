@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 - 🔸 [Luv2Shop](https://github.com/your-username/ecommerce-backend)  
 - 🔸 [EazyBank](https://github.com/your-username/EazyBank)  
 
-> *(Replace the links with actual ones if available)*
-
 ---
 
 ## 🛠️ Skills & Tools
