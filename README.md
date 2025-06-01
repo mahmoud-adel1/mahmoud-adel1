@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 ## 🚀 Projects
 
 - 🔸 [EazySchool](https://github.com/mahmoud-adel1/SpringEazyBytes)  
-- 🔸 [Luv2Shop](https://github.com/your-username/ecommerce-backend)  
-- 🔸 [EazyBank](https://github.com/your-username/EazyBank)  
+- 🔸 [Luv2Shop](https://github.com/mahmoud-adel1/ecommerce-backend)  
+- 🔸 [EazyBank](https://github.com/mahmoud-adel1/EazyBank)  
 
 ---
 
